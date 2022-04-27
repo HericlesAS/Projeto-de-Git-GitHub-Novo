@@ -1,0 +1,1 @@
+Esse arquivo é um teste para verificar se as alterações feitas no repositorio local serão adicionadas ao repositório do GitHub.
